@@ -5,3 +5,5 @@
 - FOUC - Flash of Unstyled Content 无样式内容闪烁
 
 - TDZ - Temporal Dead Zone 暂时死区
+
+- BFC - Block Formatting Context 块级格式化上下文
