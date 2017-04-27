@@ -15,3 +15,5 @@
 - PWA - Progressive Web App **渐进式应用**
 
 - MDV - Model Driven Views **模型驱动视图**
+
+- SSR - Server-Side Rendering **服务端渲染**
