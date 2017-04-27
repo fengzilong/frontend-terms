@@ -13,3 +13,5 @@
 - Blink - A web browser engine developed as part of the Chromium project **Chrome／Chromium的渲染／排版引擎**
 
 - PWA - Progressive Web App **渐进式应用**
+
+- MDV - Model Driven Views **模型驱动视图**
