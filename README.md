@@ -17,3 +17,5 @@
 - MDV - Model Driven Views **模型驱动视图**
 
 - SSR - Server-Side Rendering **服务端渲染**
+
+- wasm - WebAssembly **一种面向Web的二进制格式**
