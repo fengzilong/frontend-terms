@@ -19,3 +19,5 @@
 - SSR - Server-Side Rendering **服务端渲染**
 
 - wasm - WebAssembly **一种面向Web的二进制格式**
+
+- HOC- Higher-Order Component **高阶组件**
