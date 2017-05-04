@@ -21,3 +21,9 @@
 - wasm - WebAssembly **一种面向Web的二进制格式**
 
 - HOC - Higher-Order Component **高阶组件**
+
+- DOM - Document Object Model **文档对象模型**
+
+- BOM - Browser Object Model **浏览器对象模型**
+
+- Virtual DOM **虚拟DOM**
