@@ -27,3 +27,5 @@
 - BOM - Browser Object Model **浏览器对象模型**
 
 - Virtual DOM **虚拟DOM**
+
+- hidden classes **v8优化方式之一**
