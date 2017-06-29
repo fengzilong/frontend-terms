@@ -29,3 +29,5 @@
 - Virtual DOM **虚拟DOM**
 
 - hidden classes **v8优化方式之一**
+
+- SFC - Single File Component **单文件组件**
